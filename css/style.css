@@ -1,0 +1,72 @@
+body {
+  background-color: #0000b1;
+  margin: 0px;
+}
+
+header {
+  clear: both;
+  margin: 0;
+  font-family: Impact;
+  color: #1F45FC;
+  font-size: 2em;
+  text-align: center;
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  height: 130px;
+  background-color: #FFE39B;
+}
+
+section {
+  text-align: center;
+  margin: auto;
+  padding-top: 130px;
+  width: 100%;
+}
+
+section p {
+  color: white;
+  font-family: Tahoma, sans-serif;
+}
+
+section h2 {
+  color: white;
+  font-family: Tahoma, sans-serif;
+}
+
+article {
+  display: block;
+  float: left;
+  background-color: #0000ff;
+  height: 300px;
+  text-align: center;
+  margin: 10px;
+  border: 1px solid white;
+}
+
+footer {
+  clear: both;
+  color: lightgrey;
+  font-family: Sabon, sans-serif;
+  text-align: center;
+}
+
+#rickybobby {
+  display: block;
+  margin: auto;
+  clear: both;
+}
+
+#ads {
+  margin: auto;
+  padding: auto;
+  width: 100%;
+  text-align: center;
+}
+
+.dummyimg {
+  padding: 1.5%;
+  margin: auto;
+}
